@@ -12,6 +12,7 @@ system will detect the presence of an object (e.g., a hand or trash) near the du
 automatically open the lid, reducing manual contact. The scope includes:
 • Improving Hygiene: Minimizing contact with the dustbin lid to prevent the
 spread of germs and bacteria.
+
 • User Convenience: Providing a hands-free waste disposal experience.
 • Environmentally Friendly: Encouraging proper waste disposal practices.
 • Scalability: The system can be further upgraded with additional features like
