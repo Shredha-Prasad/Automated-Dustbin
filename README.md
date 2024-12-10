@@ -48,4 +48,4 @@ Video of the Demo
 https://github.com/user-attachments/assets/d29b7e62-e473-4424-b8c3-1b94a496e1ed
 
 Gerber file
-
+![l](https://github.com/user-attachments/assets/df0c2c2f-3594-473b-9121-052f5dbe7fb4)
