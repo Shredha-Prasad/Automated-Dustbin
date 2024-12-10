@@ -14,7 +14,9 @@ automatically open the lid, reducing manual contact. The scope includes:
 spread of germs and bacteria.
 
 • User Convenience: Providing a hands-free waste disposal experience.
+
 • Environmentally Friendly: Encouraging proper waste disposal practices.
+
 • Scalability: The system can be further upgraded with additional features like
 waste level detection and solar-powered operation.
 
@@ -22,12 +24,18 @@ Required Components
 
 Hardware Components:
 • Arduino UNO: To control and process sensor input and motor output.
+
 • Ultrasonic Sensor (e.g., HC-SR04): To detect the presence of objects near the
 dustbin.
+
 • Servo Motor: To open and close the lid based on sensor input.
+
 • Dustbin with Hinged Lid: To serve as the base for the automated system.
+
 • Breadboard and Jumper Wires: For circuit connections.
+
 • Resistors (if needed): To control current in the circuit.
+
 • Power Supply (e.g., 9V battery or USB cable): To power the Arduino board.
 
 Software Requirements:
@@ -37,8 +45,10 @@ Arduino code. Within Tinkercad, the following components are used:
 – Ultrasonic Sensor (HC-SR04, virtual model)
 – Servo Motor (virtual model)
 – Virtual breadboard for connections
+
 • Arduino IDE: To write, compile, and upload the code to the Arduino UNO for
 real-world implementation.
+
 • Visual Studio Code (with PlatformIO extension): An alternative IDE for
 writing and managing Arduino projects.
 
