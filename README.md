@@ -45,3 +45,6 @@ Simulated circuit
 ![l T project](https://github.com/user-attachments/assets/7b13b3a4-4eae-4368-9647-ffc369a1cb57)
 
 Video of the Demo 
+https://github.com/user-attachments/assets/d29b7e62-e473-4424-b8c3-1b94a496e1ed
+
+Gerber file
