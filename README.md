@@ -1,4 +1,5 @@
 Problem Statement:
+
 In urban areas, public and household waste management is a growing challenge. One of
 the key issues is hygiene and convenience while disposing of waste. Traditional dustbins
 require manual contact to open their lids, increasing the risk of germ transmission and
@@ -6,10 +7,12 @@ contamination. There is a need for an automated, touchless system to make waste 
 more hygienic, convenient, and efficient.
 
 Scope of the Solution:
+
 The proposed solution involves developing an Automated Dustbin System that uses
 an Arduino UNO microcontroller to control a motion sensor and a servo motor. The
 system will detect the presence of an object (e.g., a hand or trash) near the dustbin and
 automatically open the lid, reducing manual contact. The scope includes:
+
 • Improving Hygiene: Minimizing contact with the dustbin lid to prevent the
 spread of germs and bacteria.
 
@@ -23,6 +26,7 @@ waste level detection and solar-powered operation.
 Required Components
 
 Hardware Components:
+
 • Arduino UNO: To control and process sensor input and motor output.
 
 • Ultrasonic Sensor (e.g., HC-SR04): To detect the presence of objects near the
@@ -39,6 +43,7 @@ dustbin.
 • Power Supply (e.g., 9V battery or USB cable): To power the Arduino board.
 
 Software Requirements:
+
 • Tinkercad: A web-based platform used to design and simulate the circuit and
 Arduino code. Within Tinkercad, the following components are used:
 – Arduino UNO (virtual model)
