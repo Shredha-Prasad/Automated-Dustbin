@@ -1,0 +1,39 @@
+#include<Servo.h>
+int trigPin = 4;    
+int echoPin = 5; 
+long duration_d, dist_d;
+long aver_d[3];
+Servo Myservo;
+int pos;
+void setup() 
+{
+ Myservo.attach(3);
+ pinMode(trigPin, OUTPUT);  
+    pinMode(echoPin, INPUT);  
+    delay(100);
+}
+void loop() {
+digitalWrite(trigPin, LOW);
+delayMicroseconds(5);
+digitalWrite(trigPin, HIGH);
+delayMicroseconds(15);
+digitalWrite(trigPin, LOW);
+pinMode(echoPin, INPUT);
+duration_d = pulseIn(echoPin, HIGH);
+dist_d = (duration_d/2) / 29.1;
+if(dist_d<=13)
+{
+for(pos=0;pos<=180;pos++){
+Myservo.write(pos);
+delay(15);
+}
+  delay(1000);
+  
+  for(pos=180;pos>=0;pos--){
+Myservo.write(pos);
+delay(15);
+}
+  delay(1000);
+}
+}
+
