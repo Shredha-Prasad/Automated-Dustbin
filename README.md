@@ -48,4 +48,4 @@ Video of the Demo
 https://github.com/user-attachments/assets/d29b7e62-e473-4424-b8c3-1b94a496e1ed
 
 Gerber file
-https://github.com/Shredha-Prasad/Automated-Dustbin/issues/1#issue-2728956673
+
