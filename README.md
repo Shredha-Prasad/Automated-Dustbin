@@ -46,7 +46,7 @@ Software Requirements:
 
 • Tinkercad: A web-based platform used to design and simulate the circuit and
 Arduino code. Within Tinkercad, the following components are used:
-Arduino UNO (virtual model),Ultrasonic Sensor (HC-SR04, virtual model),Servo Motor (virtual model),Virtual breadboard for connections
+Arduino UNO (virtual model) , Ultrasonic Sensor (HC-SR04, virtual model) , Servo Motor (virtual model) , Virtual breadboard for connections
 
 • Arduino IDE: To write, compile, and upload the code to the Arduino UNO for
 real-world implementation.
